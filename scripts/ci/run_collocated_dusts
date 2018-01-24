@@ -13,6 +13,7 @@ source $dir/setup_inigo
 set -exo pipefail
 
 export DEFAULT_EVENTUALLY_TIMEOUT=60s
+export DIEGO_VERSION_V0=v1.0.0
 
 pushd "${GOPATH_ROOT}/src/code.cloudfoundry.org/diego-upgrade-stability-tests/collocated"
   ginkgo -failOnPending -randomizeAllSpecs -trace -race -slowSpecThreshold=60 -keepGoing $@ | tee $log_file
