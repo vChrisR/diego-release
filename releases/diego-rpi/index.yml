@@ -1,0 +1,4 @@
+builds:
+  87d6bcfc-2758-45c3-743c-cc2bb042ba7a:
+    version: 1.34.0-rpi
+format-version: "2"
