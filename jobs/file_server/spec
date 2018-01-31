@@ -13,7 +13,6 @@ packages:
   - file_server
   - buildpack_app_lifecycle
   - docker_app_lifecycle
-  - windows_app_lifecycle
 
 properties:
   bpm.enabled:

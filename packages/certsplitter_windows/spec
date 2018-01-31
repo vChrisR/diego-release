@@ -1,9 +1,0 @@
----
-name: certsplitter_windows
-
-dependencies:
-  - golang-windows
-
-files:
-  - exiter.ps1
-  - code.cloudfoundry.org/certsplitter/cmd/certsplitter/*.go # gosub

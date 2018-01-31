@@ -1,19 +1,12 @@
-golang/go1.9.2.linux-amd64.tar.gz:
-  size: 104247844
-  object_id: 2f9de529-3ef3-49d2-4089-088c567b46c9
-  sha: 94c889e039e3d2e94ed95e8f8cb747c5bc1c2b58
-golang/go1.9.2.windows-amd64.zip:
-  size: 109420764
-  object_id: e5813b7b-f1c2-469b-4bb1-e46b21b9067a
-  sha: 85a4093870319a673ec89c26b8f29f1e9f91a77a
-jq/jq-1.5-linux64:
-  size: 3027945
-  object_id: b78765c7-2ce1-4a12-7a1d-6378a93af246
-  sha: d8e36831c3c94bb58be34dd544f44a6c6cb88568
-proxy/envoy-ad484c78583a74e3eaa26e3af038ade26a803842.tgz:
-  size: 3784690
-  object_id: c32799b1-469d-4fd3-5b89-caf44066cc8f
-  sha: 4a76072f6e13451d97d4118b0e7b15e9a8d03d42
+golang/go1.9.2.linux-armv6l.tar.gz:
+  size: 89669335
+  sha: 6593a6ef74532d0a1fe64c5bb4ba4fb54c66bc48
+jq/jq-arm32v7:
+  size: 17868
+  sha: d7dd49ab493a9c1750538caaef37007bcb86e100
+proxy/envoy-arm-pi:
+  size: 18380192
+  sha: 9fcca281a08b6d138905bf408688e2955d0baa94
 tar/tar-1503683828.tgz:
   size: 452214
   object_id: 2f1b2152-b17a-40d5-70f5-a4069c80ae8f
